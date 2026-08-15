@@ -1,0 +1,3 @@
+body.logged-in.page-explore-pausd-board-education .block.in-this-section, body.logged-in.page-dyn .block.in-this-section {
+    z-index: +1;
+}

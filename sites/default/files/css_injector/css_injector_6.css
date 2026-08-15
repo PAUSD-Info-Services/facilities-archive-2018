@@ -1,0 +1,31 @@
+.page-login-required .pane-user-login { 
+    background: #eeeeee;
+    padding: .25em 1em;
+}
+.page-login-required #user-login-form {
+    text-align: left;
+    padding: 1em;
+}
+.page-login-required #user-login-form input {
+    border: 1px solid #3b7b30;
+    border-radius: 5px;
+    font-size: 1.25em;
+    margin-bottom: 1.2em;
+    padding: 0.5em 1em;
+    width: 96%;
+}
+.page-login-required .pane-user-login h2.pane-title {
+    display:none;
+}
+.page-login-required .pane-user-login span.form-required {
+    display:none;
+}
+
+
+.page-login-required  li.saml  a::before {
+content: "PAUSD ID Portal (";
+}
+
+.page-login-required  li.saml  a::after {
+content: ")";
+}

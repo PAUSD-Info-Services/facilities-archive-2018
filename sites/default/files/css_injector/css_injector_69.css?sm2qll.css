@@ -1,0 +1,20 @@
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul {
+	padding:0 0 0 30px;
+
+}
+
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul li {
+    display: list-item;
+    margin-bottom: calc((.125rem + .5vw)/ 2);
+}
+
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul li ul li {
+    display: list-item;
+    list-style-type: circle;
+
+}
+
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul li ul li ul li {
+    display: list-item;
+    list-style-type:square;
+}

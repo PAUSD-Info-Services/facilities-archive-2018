@@ -1,0 +1,20 @@
+#block-menu-block-13 li.menu__item.is-leaf.is-active-trail.is-active.leaf.active-trail:after {
+ right: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-right-color: #3b7b30;
+    border-width: .7em;
+    margin-top: -.7em;
+    }
+    
+#block-menu-block-13 li.menu__item a.active {
+    color: #fefefe;
+    background-color: #3b7b30;
+    padding-left:5px;
+    }    
+

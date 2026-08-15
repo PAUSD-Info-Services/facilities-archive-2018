@@ -1,0 +1,13 @@
+.field-name-field-pdf-accordian-heading {
+    font-size: 0.9333333333em;
+    line-height: -0.7666666667em;
+    color: #444;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+div.field-name-field-pdf-faq-items.field-type-field-collection {
+overflow:hidden;
+}

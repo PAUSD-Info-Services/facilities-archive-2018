@@ -1,0 +1,12 @@
+.node-type-pausd-board-policy ul {
+    list-style-type:none;
+
+}    
+
+.node-type-pausd-board-policy .policy-details {
+    float: right;
+    padding: 1em;
+    box-sizing: border-box;
+    background-color: #eeeeee;
+}    
+

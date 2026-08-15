@@ -1,0 +1,36 @@
+body.page-news .view-pdn-news.view-display-id-page .views-field-title A::before {
+    content: "\f1ea  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.node-type-pdn-news div.panel-pane.pane-node-created, body.node-type-pdn-news div.panel-pane.pane-node-updated {
+    display: inline-block;
+    font-size: 0.9333333333em;
+    line-height: 2.0535714286em;
+    font-weight: 300;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+}
+
+body.page-news span.views-field-created, body.page-news span.views-field-changed  {
+    font-size: 0.9333333333em;
+    line-height: 2.0535714286em;
+    font-weight: 300;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+}
+
+body.node-type-pdn-news div.panel-pane.pane-node-created::after {
+    content: " | ";
+}
+
+body.page-news span.views-field-created::after {
+    content: " | ";
+}
+
+body.node-type-pdn-news div.panel-pane.pane-node-created::Before {
+    content: "Published: ";
+}
+
+body.node-type-pdn-news div.panel-pane.pane-node-updated::Before {
+    content: "Updated: ";
+}

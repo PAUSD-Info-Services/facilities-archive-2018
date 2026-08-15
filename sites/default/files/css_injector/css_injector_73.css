@@ -1,0 +1,39 @@
+.panel-pane.pane-menu-tree.pane-main-menu.pausd-card.no-border.white {
+ /*   min-height: 290px;*/
+}
+
+.parent-mlid-4033 ul.menu {
+    margin: 0px;
+    display: grid;
+    width: 100%;
+}
+
+.parent-mlid-4033 ul.menu li.menu__item {
+    border-bottom: 1px solid #cfd0d1;
+    padding: .25rem .75rem;
+    line-height: 1.21875;
+    margin-bottom: .5em;
+    padding-inline-start: 20px;
+    font-weight:700;
+}
+
+.parent-mlid-4033 ul.menu li.menu__item a::after{
+    content: "»";
+    display: inline;
+    speak: none;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    text-transform: none;
+    line-height: 1;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 0;
+    margin-top: 0;
+    padding-left: 5px;
+}    

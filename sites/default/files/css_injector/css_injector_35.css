@@ -1,0 +1,21 @@
+body.page-explore-pausd-news-admin-newsletter form.ctools-auto-submit-full-form {
+    background: #eeeeee;
+    border: 1px solid #ccc;
+}
+
+body.page-explore-pausd-news-admin-newsletter form div.bef-checkboxes {
+    padding-left: 15px;
+}
+
+body.page-explore-pausd-news-admin-newsletter form h2 {
+    background-color: #3b7b30;
+    padding: 0.7666666667em 0 0.7666666667em;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+body.page-explore-pausd-news-admin-newsletter form {
+    padding: 1.5333333333em;
+    margin: 0px 0px 20px 0px;
+}

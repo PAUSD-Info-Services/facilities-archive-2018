@@ -1,0 +1,88 @@
+.panels-flexible-28 .pane-1, .pane-pdn-news-panel-pane-3, .pane-pdn-news-panel-pane-4, .pane-pdn-news-panel-pane-7, .pane-pdn-news-panel-pane-9, .pane-pdn-news-panel-pane-12{
+    border-top: 6px solid #3b7b30;
+    padding: 0px 10px;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    margin-bottom: 1.15em;
+    }
+   
+.pane-pdn-news-panel-pane-4 h2.pane-title,.pane-pdn-news-panel-pane-12 h2.pane-title,.pane-pdn-news-panel-pane-9 h2.pane-title, .pane-pdn-news-panel-pane-3 h2.pane-title, .pane-pdn-news-panel-pane-3 h2.pane-title, .pane-pdn-news-panel-pane-7 h2.pane-title, .pane-pdn-news-panel-pane-8 h2.pane-title{
+    margin-top: 0.7666666667em;
+    margin-bottom: 0.7666666667em ;
+    text-transform: uppercase;
+}
+.pane-pdn-news-panel-pane-8 h2.pane-title {
+    font-size:1.44em;
+}
+
+.pane-pdn-news-panel-pane-12 div.views-row, .pane-pdn-news-panel-pane-9 div.view-news-weekly-list div.views-row, .pane-pdn-news-panel-pane-8 div.view-news-weekly-list div.views-row, .pane-pdn-news-panel-pane-7 div.view-news-weekly-list div.views-row, .pane-pdn-news-panel-pane-3 div.view-news-weekly-list div.views-row, .pane-pdn-news-panel-pane-4 div.view-news-weekly-list div.views-row  {
+    width:100%;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: .567em;
+    padding-bottom: .567em;
+}
+
+.pane-pdn-news-panel-pane-12 div.views-row-last,.pane-pdn-news-panel-pane-9 div.view-news-weekly-list div.views-row-last, .pane-pdn-news-panel-pane-8 div.view-news-weekly-list div.views-row-last, .pane-pdn-news-panel-pane-7 div.view-news-weekly-list div.views-row-last, .pane-pdn-news-panel-pane-3 div.view-news-weekly-list div.views-row-last, .pane-pdn-news-panel-pane-4 div.view-news-weekly-list div.views-row-last  {
+    border-bottom: none;
+}
+
+
+.pane-pdn-news-panel-pane-9 .views-field-title A, .pane-pdn-news-panel-pane-8 .views-field-title A, .pane-pdn-news-panel-pane-7 .views-field-title A, .pane-pdn-news-panel-pane-3 .views-field-title A, .view-pde-events .views-field-title A, .pane-pdn-news-panel-pane-4 .views-field-title A, {
+    font-size: 93.75%;
+    line-height: 1.357em;
+    color: #3b7b30;
+    font-weight: 300;
+    text-decoration: none;
+}
+.pane-pdn-news-panel-pane-8 .more-link a,.pane-pdn-news-panel-pane-12 .more-link a {
+    font-size: 16px;
+    padding: 0.5em 1.5em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+.pane-pdn-news-panel-pane-8 .more-link a:hover,.pane-pdn-news-panel-pane-12 .more-link a:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+.pane-pdn-news-panel-pane-8 div.more-link, .pane-pdn-news-panel-pane-12 div.more-link {
+    text-align: center;
+    display: table;
+    float: right;
+    padding-bottom: .567em;
+}
+
+.pane-pdn-news-panel-pane-8 .views-field-title a, .pane-pdn-news-panel-pane-7 .views-field-title a, .pane-pdn-news-panel-pane-4 .views-field-title a, .pane-pdn-news-panel-pane-12 .views-field-title a {
+    font-size: 1.15em;
+    text-decoration: none;
+}
+
+.pane-pdn-news-panel-pane-8 .views-field-title a:hover, .pane-pdn-news-panel-pane-7 .views-field-title a:hover, .pane-pdn-news-panel-pane-4 .views-field-title a:hover , .pane-pdn-news-panel-pane-12 .views-field-title a:hover {
+    text-decoration: underline;
+}
+
+.page-explore-pausd-superintendent div.panel-pane.pane-custom.pane-1, .pane-pdn-news-panel-pane-7, .pane-pdn-news-panel-pane-12, .pane-pdn-news-panel-pane-4, .pane-pdn-news-panel-pane-8 {
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-top: 6px solid #3b7b30;
+    margin: 1.15em 0px;
+    padding: 0px 10px;
+}
+
+.page-explore-pausd-superintendent div.panel-pane.pane-custom.pane-1 h2.pane-title, .pane-pdn-news-panel-pane-7 h2.pane-title, .pane-pdn-news-panel-pane-12 h2.pane-title, .pane-pdn-news-panel-pane-4 h2.pane-title, .pane-pdn-news-panel-pane-8 h2.pane-title {
+    font-size: 0.9333333333em;
+    line-height: -0.7666666667em;
+    color: #444;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}

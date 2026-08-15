@@ -1,0 +1,23 @@
+.header__site-link:link, .header__site-link:visited {
+    color: white;
+    text-shadow: black 0 0 2px;
+
+    text-rendering: optimizelegibility;
+    letter-spacing: -0.04em;
+    
+}    
+
+.header__name-and-slogan {
+    float: inherit;
+    display: inline-block;
+    border: 1 solid #fff;
+    padding: 0 10px 0 10px;
+    display: inline-block;
+    float: none;
+}
+
+header#header svg#Layer_4 {
+    border-right: 1px solid #fff;
+    padding: 0 10px 0 0;
+    vertical-align: bottom;
+}

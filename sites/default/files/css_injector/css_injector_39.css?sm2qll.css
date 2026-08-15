@@ -1,0 +1,24 @@
+body.page-explore-pausd-human-resources-job-descriptions div.view-pdj-manage-jobs div.view-filters,
+body.page-explore-pausd-human-resources-admin-job-descriptions div.view-filters,
+body.page-explore-pausd-human-resources-admin-job-descriptions-revision-log div.view-filters
+{
+    margin-bottom: .5em;
+    background: #eeeeee;
+    width: 100%;
+    padding: .5em;
+}
+
+body.page-explore-pausd-human-resources-job-descriptions .form-checkboxes .form-item, body.page-explore-pausd-human-resources-admin-job-descriptions .form-checkboxes .form-item,
+body.page-explore-pausd-human-resources-admin-job-descriptions-revision-log .form-checkboxes .form-item {
+    display: inline-block;
+    padding: 5px 5px;
+}
+
+body.page-explore-pausd-human-resources-job-descriptions div.views-widget {
+    border: 1px solid #3b7b30;
+    background: #fff;
+}    
+
+body.page-explore-pausd-human-resources-job-descriptions div.view-pdj-manage-jobs div.views-row {
+    margin-bottom: 1em;
+}    

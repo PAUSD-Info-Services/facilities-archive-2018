@@ -1,0 +1,8 @@
+body.page-node-add-pde-event div.vertical-tabs-panes.vertical-tabs-processed fieldset#edit-group_unecessary {
+    display:none;
+    opacity:0;
+}
+
+body.page-node-add-pde-event li.vertical-tab-button.first {
+    display:none;
+}

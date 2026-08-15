@@ -1,0 +1,71 @@
+ul.site-plans-list {
+    column-count: 3;
+    column-gap: 50px;
+    column-rule: 1px chartreuse;
+    margin-top: -30px;
+}
+
+.field-name-field-pdfr-partner-image img {
+    max-height: 100px;
+}
+
+.home.committees-list > h2.pane-title {
+    color: #576e84;
+    text-align: center;
+    font-size: 2.6em;
+    line-height: 1.1794871795em;
+    font-weight: 300;
+    padding: 0.7666666667em 0em 0em;
+    margin: 0em;
+}
+
+.node-pdfr-partner-listing.node-promoted {
+    text-align: center;
+}
+
+.node-pdfr-partner-listing .hey-fontography-H2-style, .node-pdfr-partner-listing h2 {
+    line-height: 1.21875;
+    font-weight: 700;
+    font-size: 1em;
+    padding-bottom:10px;
+}
+
+.node-pdfr-partner-listing a:link {
+    border-bottom: none !important;
+}
+
+.node-pdfr-partner-listing .col-md-4 {
+    margin-top: 15px;
+}
+
+#mini-panel-clone_of_homepage_highlights .row {
+    margin-top: 15px;
+}
+
+
+body.home div.pdn-news-carousel {
+    height: 250px;
+}
+
+.more-link a {
+    background-color: #1d5c8b;
+}
+
+.more-link a:hover {
+    background-color: #ffffff;
+    color: #1d5c8b;
+}
+
+div.pausd-pane div.more-link a {
+    color: #1d5c8b;
+    border: 1px solid #1d5c8b;
+}
+
+div.pausd-pane div.more-link a:hover {
+    color: #fefefe;
+    background-color: #1d5c8b;
+}
+
+div.pausd-pane div.more-link {
+    float: right;
+}

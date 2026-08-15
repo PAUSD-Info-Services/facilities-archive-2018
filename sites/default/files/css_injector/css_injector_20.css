@@ -1,0 +1,93 @@
+.page-explore-pausd-our-district-sustainability article { 
+    width: 66.666%;
+    margin-left: 0em;
+    margin-right: auto;
+}
+
+.page-explore-pausd-our-district-sustainability .panels-flexible-region-28-top_intro {
+    float: inherit;
+    width: inherit;
+}
+
+.page-explore-pausd-our-district-sustainability .block.in-this-section, body.logged-in.page-dyn .block.in-this-section {
+    z-index: +1;
+}
+
+
+.pane-pdn-news-panel-pane-11 div.views-row {
+    width:100%;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: .567em;
+    padding-bottom: .567em;
+}
+
+.pane-pdn-news-panel-pane-11 div.views-row-last {
+    border-bottom: none;
+}
+
+.pane-pdn-news-panel-pane-11 .views-field-title a {
+    font-size: 93.75%;
+    line-height: 1.357em;
+    color: #3b7b30;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.pane-pdn-news-panel-pane-11 .more-link a {
+    font-size: 16px;
+    padding: 0.5em 1.5em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+.pane-pdn-news-panel-pane-11 .more-link a:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+.pane-pdn-news-panel-pane-11 div.more-link {
+    text-align: center;
+    display: table;
+    float: right;
+    padding-bottom: .567em;
+}
+
+.pane-pdn-news-panel-pane-11 .views-field-title a {
+    font-size: 1.15em;
+    text-decoration: none;
+}
+
+.pane-pdn-news-panel-pane-11 .views-field-title a:hover {
+    text-decoration: underline;
+}
+
+.page-explore-pausd-our-district-sustainability div.pane-pdn-news-panel-pane-11, .page-explore-pausd-our-district-sustainability div.pane-custom.pane-2  {
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-top: 6px solid #3b7b30;
+    margin: 1.15em 0px;
+    padding: 0px 10px;
+}
+
+.page-explore-pausd-our-district-sustainability div.pane-pdn-news-panel-pane-11 h2.pane-title, .page-explore-pausd-our-district-sustainability div.pane-custom.pane-2 h2.pane-title {
+    font-size: 0.9333333333em;
+    line-height: -0.7666666667em;
+    color: #444;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* Mobile Settings*/
+@media (max-width: 480px) and (min-width: 0px), (max-width: 764px) and (min-width: 480px) {
+.page-explore-pausd-our-district-sustainability div.panels-flexible-region.panels-flexible-region-28-center, .page-explore-pausd-our-district-sustainability div.panels-flexible-region.panels-flexible-region-28-center_left.panels-flexible-region-first, .page-explore-pausd-our-district-sustainability div.panels-flexible-region.panels-flexible-region-28-center_left.panels-flexible-region-last  {
+    float: left;
+    width: 100%;
+}}

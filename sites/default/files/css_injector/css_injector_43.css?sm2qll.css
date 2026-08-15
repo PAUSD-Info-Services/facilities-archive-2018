@@ -1,0 +1,30 @@
+body.page-node-3948 div.field-name-body ol {
+
+    list-style-type:decimal;
+}
+body.page-node-3948 div.field-name-body ol li ol li {
+    display: list-item;
+    list-style-type:lower-alpha;
+}
+body.page-node-3948 div.field-name-body ol li ol li ol li {
+    display: list-item;
+    list-style-type:lower-roman;
+}
+
+body.page-node-3948 div.field-name-field-pdf-answer ol li ul {
+    padding: 0px 0px 0px 30px;
+}
+
+
+body.page-node-3948 div.field-name-field-pdf-answer ol {
+
+    list-style-type:decimal;
+}
+body.page-node-3948 div.field-name-field-pdf-answer ol li ol li {
+    display: list-item;
+    list-style-type:lower-alpha;
+}
+body.page-node-3948 div.field-name-field-pdf-answer ol li ol li ol li {
+    display: list-item;
+    list-style-type:lower-roman;
+}

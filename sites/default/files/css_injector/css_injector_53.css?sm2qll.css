@@ -1,0 +1,17 @@
+body.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .accordion-toggle {
+    left: -50px;
+}
+
+body.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .ui-state-default .ui-icon {
+    background: none;
+}
+
+body.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .ui-state-default {
+    border:none;
+    background: none;
+}
+
+body.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .ui-widget-content {
+    border: none;
+    background: none;
+}

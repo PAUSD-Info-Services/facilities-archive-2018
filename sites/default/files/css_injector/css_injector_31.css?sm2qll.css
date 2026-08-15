@@ -1,0 +1,61 @@
+body.page-explore-pausd-board-education-meetings.page-meetings .views-row {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 1.5333333333em;
+}
+
+body.page-explore-pausd-board-education-meetings.page-meetings div.pane-pdm-meetings-panel-pane-5 .views-row-last {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 1.5333333333em;
+
+}
+
+body.page-explore-pausd-board-education-meetings.page-meetings .pane-views-cced19023a2aa779f780083aeb163a3c h2 {
+    font-size: 1em;
+    line-height: 1.5333333333em;
+    color: #fefefe;
+    font-family: "Open Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+    font-weight: 700;
+    text-transform: initial;
+}
+
+body.page-explore-pausd-board-education-meetings article p {
+    margin:0px 0px -20px 0px;
+}
+
+body.page-explore-pausd-board-education-meetings h3.meeting-title a, body.page-explore-pausd-board-education-meetings a h3.meeting-title {
+    font-size: 1.3333333333em;
+    line-height: 1.357em;
+    color: #3b7b30;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+}    
+
+body.page-explore-pausd-board-education-meetings h3.meeting-title a:hover {
+    text-decoration: underline;
+} 
+
+body.page-explore-pausd-board-education-meetings h3.meeting-title a:hover {
+    text-decoration: underline;
+}
+
+div.panel-pane.pane-views-panes.pane-pdm-meetings-panel-pane-6 {
+    padding: 0.7666666667em;
+    background-color: #fefefe;
+    border: 1px solid #eeeeee;
+    border-top: 6px solid #3b7b30;
+    margin-bottom: 1.15em;
+}
+
+div.panel-pane.pane-views-panes.pane-pdm-meetings-panel-pane-6 .views-row {
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 0.7666666667em;
+    padding-bottom: 0.7666666667em;
+    font-weight: 300;
+}
+
+div.panel-pane.pane-views-panes.pane-pdm-meetings-panel-pane-6 .views-row .views-field-title {
+    font-weight: 300;
+    font-size: 1.17em;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+}

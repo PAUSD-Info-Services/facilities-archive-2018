@@ -1,0 +1,105 @@
+body.sticky-actions .form-actions.form-wrapper {
+    background: #f36;
+}
+
+body.page-node-add, body.page-node-edit, body.page-node-add div#page, body.page-node-edit div#page {
+    background:#eee;
+}
+
+fieldset#edit-group_unnecessary, fieldset#edit-group_file_upload_feature, fieldset#edit-group_unecessary, fieldset#edit-comment-settings {
+    display:none;
+}
+
+ul.action-links li {
+    list-style:none;
+}
+
+div.region-grid ul.action-links.action-links-field-collection-add li a::after {
+    content: " Grid Item";
+}
+
+body.node-type-pd-faqs ul.action-links.action-links-field-collection-add li {
+    display:none;
+    content:" File Upload";
+}
+
+ul.action-links.action-links-field-collection-add li a::after {
+    content:" Accordian Item";
+
+}
+
+body.node-type-pdm-meeting ul.action-links.action-links-field-collection-add li a::after {
+    content:" Board Agenda Section";
+
+}
+
+
+
+body.node-type-pdm-meeting div.field-collection-item-field-pdm-meeting-items ul.action-links.action-links-field-collection-add li a::after {
+    content:" Board Item";
+
+}
+
+
+
+ul.action-links li a {
+    font-size: 16px;
+    padding: 0.15em .5em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+    background-color: #dedede;
+}
+
+ul.action-links li a:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+#edit-scheduler-settings.collapsed a.fieldset-title {
+
+    padding: 0.5em 0.6em;
+    margin-left: -30px;
+
+    display: inline-block;
+    cursor: pointer;
+    background-color: #eee;
+    text-decoration: none;
+    color: #3b7b30;
+    border: 1px solid #ccc;
+    margin-top: .5em;
+    font-weight: bold;
+}
+
+#edit-scheduler-settings a.fieldset-title {
+    padding: 0.5em 0.6em;
+    margin-left: -30px;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #fff;
+    text-decoration: none;
+    color: #000;
+    border: 1px solid #ccc;
+    margin-top: .5em;
+    font-weight: bold;
+}
+
+div.form-field-type-file.field-widget-file-generic.form-wrapper {
+    border-style: dashed;
+    border-color: #777;
+    margin: 5px;
+}
+
+div.form-field-type-file.field-widget-file-generic.form-wrapper legend span.fieldset-legend {
+    display: block;
+    font-weight: bold;
+}
+
+body.page-node-add-news-external div#edit-body, body.page-node-edit.node-type-news-external div#edit-body {
+    display:none;
+}
+

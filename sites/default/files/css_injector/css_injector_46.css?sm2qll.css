@@ -1,0 +1,96 @@
+div.pausd-pane.sidebar {
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-top: 6px solid #3b7b30;
+    margin: 1.15em 0px;
+    padding: 0px 10px;
+
+}
+
+div.pausd-pane div.more-link a {
+    padding: 0.0009em .2em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration: none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+div.pausd-pane div.more-link a:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}    
+
+div.pausd-pane div.more-link {
+    margin-bottom: 5px;
+}
+
+
+/*Side Content Pane*/
+div.pausd-pane.sidebar div.more-link a {
+    padding: 0.0009em .2em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration: none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+div.pausd-pane.sidebar div.more-link a:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}    
+
+div.pausd-pane.sidebar div.more-link {
+    margin-bottom: 5px;
+}
+
+div.pausd-pane.list-group div.views-row {
+    overflow: hidden;
+    box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 12px 16px;
+}
+
+div.pausd-pane.list-group div.views-row:hover {
+    box-shadow: 0 1px 6px rgba(43,95,34,1);
+}
+
+
+div.pausd-pane.secondary div.views-row:hover {
+    -webkit-box-shadow: inset 1px 0 0 #dadce0, inset -1px 0 0 #dadce0, 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+    box-shadow: inset 1px 0 0 #dadce0, inset -1px 0 0 #dadce0, 0 1px 2px 0 rgba(60,64,67,.3), 0 1px 3px 1px rgba(60,64,67,.15);
+    z-index: 1;
+}
+
+body.page-explore-pausd-board-education-meetings article p {
+    line-height: 1.2em;
+    margin: 0 0 -20px;
+    color: #444;
+}
+
+body.page-explore-pausd-board-education-meetings article, body.page-explore-pausd-board-education-meetings span.ext {
+    display:inline-block;
+}
+
+body.page-explore-pausd-board-education-meetings span.ext {
+    margin-left:10px;
+}
+
+div.view-pdm-meetings {
+    border-top:none;
+    box-sizing: border-box;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin: 1.15em 0px;
+    padding: 0px 10px;
+}

@@ -1,0 +1,43 @@
+@media (max-width:445px){ div.pane-quicktabs-homepage2019-news-events {
+    font-size:.8rem;
+}
+}
+
+
+@media (max-width:445px){ .page-home .region-news, .page-home .region-events {
+	margin: 0px 5px 10px 5px;
+	width:95%;
+}}
+
+@media (max-width:445px){.page-home .more-link {
+	text-align: center;
+	display: table;
+    margin: 0px; 
+	position: relative;
+	/* bottom: 0.7666666667em; */
+}}
+
+@media (max-width:445px){body.page-home-2019 .pane-quicktabs-homepage2019-news-events {
+    height: auto;
+}}
+
+@media (max-width:990px){ .highlight-item {
+    margin: 0px 10px 10px;
+    min-height: max-content;
+}
+}
+
+@media (max-width:990px){ body.page-home-2019 div.panels-flexible-row-59-2.row-grid {
+	height: auto;
+}}
+
+@media (max-width:445px){ footer #footer#block-block-6.block {
+    display:block;
+    margin:0 auto;
+}}
+
+@media (max-width:445px){ footer#footer .block {
+	display: block;
+	margin: 10px auto;
+	position: inherit;
+}}

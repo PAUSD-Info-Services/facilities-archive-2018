@@ -1,0 +1,367 @@
+a#logo {
+    margin-left: -165px;
+}
+
+header#header {
+    background-color:#1D5C8B;
+}
+
+footer#footer {
+    background-color: #595959;
+}
+
+header#header svg {
+    max-width:250px;
+}
+
+.main-menu-reveal, .region-above-header,
+.region-above-header #block-views-exp-pdsr-search-page .views-widget .form-text,
+BODY.front:not(.page-node-edit) .region-above-header,
+BODY.front:not(.page-node-edit) .region-above-header #block-views-exp-pdsr-search-page .views-widget .form-text {
+    background:#E9A12B;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#1D5C8B;
+}
+
+article.committee.item-list a:hover:visited {
+    color: #1d5c8b;
+}
+
+
+
+body.page-explore-pausd-board-education-meetings h3.meeting-title a,
+body.page-explore-pausd-board-education-meetings a h3.meeting-title {
+    color: #1d5c8b;
+
+}
+
+.breadcrumb a {
+    background-image: -webkit-gradient(linear,right top,right bottom,color-stop(65%,transparent),color-stop(10%,#E9A12B));
+    background-image: linear-gradient(180deg,transparent 65%,#E9A12B 0);
+    background-size: 0 100%;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    -webkit-transition: background-size .4s ease;
+    transition: background-size .4s ease;
+    border-bottom: 1px solid rgba(29,92,139,1);
+}    
+
+.breadcrumb a:hover {
+   background-size: 100% 100%;
+   cursor: pointer;
+}
+
+.breadcrumb a:hover {
+   color:#1d5c8b;
+}
+
+.breadcrumb a:hover:visited {
+   color:#1d5c8b;
+}
+
+
+.hey-fontography-link-visited:hover {
+    color: #1d5c8b;
+}
+
+a:hover:visited {
+    color: #1d5c8b;
+    text-decoration:underline;
+}
+
+div#content article.view-mode-full a:hover:visited {
+    color:#ffffff;
+}
+
+.hey-fontography-link, 
+a:link {
+    color: #1d5c8b;
+}
+
+.hey-fontography-link-visited, 
+a:visited {
+    color: #1D5C8B;
+    text-decoration: none;
+}
+
+div#content article.view-mode-full a:link {
+    color: #1D5C8B;
+    border-bottom: 1px solid rgba(29,92,139,.8);
+    padding: .15789em;
+    text-decoration:none;
+}
+
+div#content article.view-mode-full a:hover:link {
+    border-bottom: 1px solid rgba(29,92,139,1);
+    color: #ffffff;
+    background-color: rgba(29,92,139, 1);
+    padding: .15789em;
+}
+
+body.node-type-pdn-news div#content div.pane-node-body a:link {
+    color: #1D5C8B;
+    border-bottom: 2px solid rgba(29,92,139,.8);
+    background-color: rgba(29,92,139, .1);
+    padding: .15789em;
+    text-decoration:none;
+}
+
+body.node-type-pdn-news div#content div.pane-node-body a:hover:link {
+    border-bottom: 1px solid rgba(29,92,139,1);
+    color: #1D5C8B;
+    background-color: rgba(29,92,139, .5);
+    padding: .15789em;
+}
+
+div#mini-panel-full_page_menu ul.menu li.menu__item:hover {
+    background-color: rgba(29,92,139,.1);
+}
+
+div#mini-panel-full_page_menu ul.cta li a {
+    background-color: inherit;
+    border: 1px solid #1D5C8B;
+    color: #1D5C8B;
+    box-shadow: 0 1px 6px rgba(32,33,36,0.28);
+}
+
+div#mini-panel-full_page_menu ul.cta li a:hover {
+    box-shadow: 0 1px 6px rgba(29,92,139,1);
+    text-decoration: none;
+}
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .accordion-toggle {
+    background-color: #1D5C8B;
+}
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .accordion-active .accordion-toggle {
+    background-color: #1D5C8B;
+}
+
+div.pausd-pane.sidebar {
+    border-color:#1D5C8B;
+}
+
+body.page-home-2019 div.pane-boxes-pausd-twitter {
+    border-color: #1D5C8B;
+}
+
+.slick-arrow::before {
+    color:#1D5C8B;
+}
+
+.slick-arrow:hover::before {
+    color:#1D3D85;
+}
+
+.highlight-item {
+    background-color:rgba(29,92,139, .9);
+}
+
+.highlight-item-number {
+    color:#E9A12B;
+}
+
+div.pausd-pane.list-group div.views-row:hover {
+    box-shadow: 0 1px 6px rgba(29,92,139,1);
+}
+
+a.btn-secondary {
+    color: #1D5C8B;
+    border: 1px solid #1D5C8B;
+}
+
+a:hover.btn-secondary {
+    background-color: #1D5C8B;
+    color: #ffffff;
+}
+
+a.btn-secondary-cal {
+    color: #1D5C8B;
+    border: 1px solid #1D5C8B;
+}
+
+a:hover.btn-secondary-cal {
+    background-color: #1D5C8B;
+}
+
+div.pausd-pane.sidebar div.more-link a {
+    color: #1D5C8B;
+    border: 1px solid #1D5C8B;
+}
+
+div.pausd-pane.sidebar div.more-link a:hover {
+    background-color: #1D5C8B;
+}
+
+.hey-fontography-node-title-teaser,
+.view-pdn-news.view-display-id-page .views-field-title A,
+.pane-pdn-weekly-communications-panel-pane-1 .views-field-title A,
+.view-pdn-weekly-communications .views-field-title A,
+.view-pde-events.view-display-id-page .views-field-title A {
+    color: #1D5C8B;
+}
+
+.page-policies .document-lib-sidebar .library-tab a.active {
+    border-bottom: 7px solid #1D5C8B;
+}
+
+.page-policies .document-lib-sidebar .browse .accordion-toggle {
+    background-color: #1D5C8B;
+}
+
+.page-policies .document-lib-sidebar .browse .cp-is-open .accordion-toggle {
+    background-color: #8DADC5;
+}
+
+.page-policies .document-lib-sidebar .browse .nav-item-child-list {
+    border-left: 3px solid #8DADC5;
+}
+
+#quicktabs-homepage2019_news_events div.item-list ul.quicktabs-tabs li.active a {
+    border-bottom: 2px solid #1D5C8B;
+}
+
+#quicktabs-homepage2019_news_events .month {
+    background-color: #1D5C8B;
+}
+
+.block.in-this-section H2.block-title {
+    background-color: #1D5C8B;
+}
+
+div.pane-pde-events-panel-pane-13,
+body.node-type-pde-event div.pane-pde-events-panel-pane-10,
+body.node-type-pde-event div.pane-pde-events-panel-pane-9,
+body.node-type-pde-event div.pane-pde-events-panel-pane-8,
+body.node-type-pde-event div.pane-pde-events-panel-pane-6,
+body.node-type-pde-event div.pane-pde-events-panel-pane-7,
+div.pane-pde-events-panel-pane-9,
+div.pane-pdm-meetings-panel-pane-7,
+div.pane-pdn-news-panel-pane-15,
+.page-explore-pausd-our-district-sustainability div.pane-pdn-news-panel-pane-11,
+.page-explore-pausd-our-district-sustainability div.pane-custom.pane-2,
+
+.page-explore-pausd-superintendent div.panel-pane.pane-custom.pane-1,
+.pane-pdn-news-panel-pane-7,
+.pane-pdn-news-panel-pane-12,
+.pane-pdn-news-panel-pane-4,
+.pane-pdn-news-panel-pane-8, 
+div.pane-pdm-meetings-panel-pane-8,
+div.panel-pane.pane-views-panes.pane-pdn-news-panel-pane-19, 
+div.panel-pane.pane-views-panes.pane-pdn-news-panel-pane-18 {
+    border-top: 6px solid #1D5C8B;
+}
+
+
+
+div.pane-pde-events-panel-pane-13 div.more-link a,
+body.node-type-pde-event div.pane-pde-events-panel-pane-10 div.more-link a,
+body.node-type-pde-event div.pane-pde-events-panel-pane-9 div.more-link a,
+div.pane-pdm-meetings-panel-pane-7 div.more-link a,
+div.pane-pdn-news-panel-pane-15 div.more-link a,
+
+.pane-pdn-news-panel-pane-8 .more-link a,
+.pane-pdn-news-panel-pane-12 .more-link a {
+    color: #1D5C8B;
+    border: 1px solid #1D5C8B;
+}
+
+div.pane-pde-events-panel-pane-13 div.more-link a:hover,
+body.node-type-pde-event div.pane-pde-events-panel-pane-10 div.more-link a:hover,
+body.node-type-pde-event div.pane-pde-events-panel-pane-9 div.more-link a:hover,
+div.pane-pdm-meetings-panel-pane-7 div.more-link a:hover,
+div.pane-pdn-news-panel-pane-15 div.more-link a:hover, 
+
+.pane-pdn-news-panel-pane-8 .more-link a:hover,
+.pane-pdn-news-panel-pane-12 .more-link a:hover
+
+{
+    background-color: #1D5C8B;
+}
+
+BODY.page-board .pane-pd-board-members-panel-pane-1 .views-field-field-pd-board-email A {
+    color: #1D5C8B;
+}
+
+BODY.page-board .pane-pd-board-members-panel-pane-1 .views-field-field-pd-board-email A:hover {
+    background-color: #1D5C8B;
+    border: 1px solid #1D5C8B;
+    padding: inherit;
+}
+
+BODY .view-tabbed-listing .quicktabs-tabs {
+    border-bottom: 4px solid #1D5C8B;
+}
+
+BODY .view-tabbed-listing .quicktabs-tabs li a {
+    background: #1D5C8B;
+}
+
+BODY .view-tabbed-listing .quicktabs-tabpage .quicktabs-views-group:hover {
+    border: 2px solid rgba(29,92,139,1);
+    color: #1D5C8B;
+    box-shadow: 0 1px 6px rgba(29,92,139,1);
+}
+
+table TR TH {
+    background-color: rgba(29,92,139, .1);
+}
+
+.in-page-nav:before {
+    background-color: #1D5C8B;
+}
+
+#block-menu-block-13 li.menu__item a.active {
+    background-color: #1D5C8B;
+}
+
+#block-menu-block-13 li.menu__item.is-leaf.is-active-trail.is-active.leaf.active-trail:after {
+    border-right-color: #1D5C8B;
+}
+
+.pane-pdn-news-panel-pane-11 .views-field-title a {
+    color: #1D5C8B;
+}
+
+BODY.node-type-pdg-grid-page:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdg-grid-items > .field-items > .field-item .field-name-field-pdg-item-title {
+    background-color: #1d5c8b;
+}
+
+@media (min-width:0) and (max-width:920px) {
+ #block-boxes-pd-search-toggle {
+  right:0px;
+  top:0;
+ }
+}
+
+.pausd-card {
+    border-top: 6px solid #1d5c8b;
+}
+
+.node-readmore a:hover, .btn a:hover, a:hover.btn {
+    background-color: #1d5c8b;
+    color:#ffffff;
+}
+
+.node-readmore a, .btn {
+    color: #1d5c8b;
+    border: 1px solid #1d5c8b;
+}
+
+header#header svg#pausd_logo {
+    border-right: 1px solid #fff;
+    padding: 0 10px 0 0;
+    vertical-align: bottom;
+}
+
+#sitename a:hover:visited {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#sitename .hey-fontography-link-visited:hover, #sitename a:hover:visited {
+    color: #ffffff;
+    text-decoration: underline;
+}

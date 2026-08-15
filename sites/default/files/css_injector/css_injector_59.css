@@ -1,0 +1,31 @@
+body.node-type-pdn-news div#content div.pane-node-body a:link {
+    color: #2b5f22;
+    border-bottom: 2px solid rgba(59,123,48,.8);
+    background-color: rgba(59,123,48, .1);
+    padding: .15789em 0;
+    text-decoration: none;
+}
+
+body.node-type-pdn-news div#content div.pane-node-body a:hover:link {
+    border-bottom: 1px solid rgba(43,95,34,1);
+    color: #3b7b30;
+    background-color: rgba(59,123,48, .5);
+    padding: .15789em 0;
+    text-decoration: none;
+}
+
+body.node-type-pdn-news div#content div.pane-node-body a.btn-secondary, body.node-type-pdn-news div#content div.pane-node-body a.btn-secondary-pdf {
+    color: #2b5f22;
+    border-bottom: 1px solid rgba(59,123,48,.8);
+    background-color: rgba(59,123,48, .1);
+    text-decoration: none;
+    padding: 0.15em .5em;
+}
+
+body.node-type-pdn-news div#content div.pane-node-body a.btn-secondary:hover, body.node-type-pdn-news div#content div.pane-node-body a.btn-secondary-pdf:hover {
+    border-bottom: 1px solid rgba(43,95,34,1);
+    color: #3b7b30;
+    background-color: rgba(59,123,48, .5);
+    text-decoration: none;
+    padding: 0.15em .5em;
+}

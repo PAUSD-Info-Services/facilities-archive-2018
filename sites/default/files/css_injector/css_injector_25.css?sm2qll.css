@@ -1,0 +1,76 @@
+body.page-taxonomy a:link {
+    text-decoration:none;
+}
+
+body.page-taxonomy a:hover {
+    text-decoration:underline;
+}
+
+body.page-taxonomy li.node-readmore {
+    display:none;
+}
+
+body.page-taxonomy article.node-pde-event header h2.node-title a:link::before {
+    content: "\f073  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-taxonomy article {
+    margin-bottom:23px;
+    width: 66.66%;
+    margin-left: 0em;
+    margin-right: auto;
+    border-bottom: 1px solid #eeeeee;
+}
+
+
+body.page-taxonomy-term-196 article, body.page-taxonomy-term-163 article {
+    float: left;
+    padding:15px;
+    margin: 1em 1.3em 0em 0;
+    width:100%;
+    
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 1.5333333333em;
+}
+
+body.page-taxonomy-term-196 div.field-name-field-tags, body.page-taxonomy-term-196 div.field-name-field-pde-date, body.page-taxonomy-term-196 div.field-name-field-pde-location, body.page-taxonomy-term-163 div.field-name-field-tags, body.page-taxonomy-term-163 div.field-name-field-pde-date, body.page-taxonomy-term-163 div.field-name-field-pde-location {
+    margin-top:.5em;
+}
+
+body.page-taxonomy-term-196 article.node header h2.node-title a:link::before, body.page-taxonomy-term-163 article.node-pde-event div.field-name-field-pde-date div.field-label::before {
+    content: "\f073  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-taxonomy-term-354 .node-title A::before {
+    content: "\f1ea  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-taxonomy-term-196 article.node header h2.node-title a:link, body.page-taxonomy-term-163 article.node header h2.node-title a:link {
+    text-decoration:none;
+    font-size: 93.75%;
+}
+
+body.page-taxonomy-term-196 article.node header h2.node-title a:hover, body.page-taxonomy-term-163 article.node header h2.node-title a:hover {
+    text-decoration:underline;
+    font-size: 93.75%;
+}
+
+body.page-taxonomy-term-196 article.node .node-readmore, body.page-taxonomy-term-163 article.node .node-readmore {
+    display:none;
+}
+
+body.page-taxonomy-term-340 article.node-pdn-news header h2.node-title a:link::before {
+    content: "\f1ea   ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-taxonomy-term-340 li.node-readmore {
+    display:block;
+}

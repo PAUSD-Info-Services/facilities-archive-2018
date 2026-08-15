@@ -1,0 +1,49 @@
+div.carousel-caption h3 {
+    color:#fff;
+    max-width: 1040px;
+    margin:7px auto;
+}
+
+div.pdn-news-carousel.bgimage {
+    background-position: center center !important;
+}
+
+div.carousel-caption {
+  margin-left: auto;
+  margin-right: auto;
+  padding: .125em 2em;
+  padding-bottom: 0.125em;
+  padding-bottom: 4.6em;
+  background-color: #3b7b30;
+  opacity: .95;
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+}
+
+body.page-home-2019 div.panels-flexible-row-59-2.row-grid {
+    display:none;
+}
+
+.page-home .row-partners {
+    display:none;
+}
+
+div.main-menu {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+div.main-menu a:link, div.main-menu a:visited {
+    color:#fff;
+}
+
+/*
+#block-boxes-pd-search-toggle {
+    display:none;
+}
+*/

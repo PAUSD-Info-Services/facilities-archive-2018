@@ -1,0 +1,210 @@
+body.page-explore-pausd-news-new-categories-collective-bargaining .block.in-this-section .block-content {
+    padding: 0em 0.46666667em 0.66666667em .4666667em;
+}
+
+div.panel-pane.pane-views-panes.pane-pdn-news-panel-pane-19 h2.pane-title, div.panel-pane.pane-views-panes.pane-pdn-news-panel-pane-18 h2.pane-title {
+    margin-top: 0.0222222222em;
+    margin-bottom: 0.0222222222em;
+}
+
+
+div.panel-pane.pane-views-panes.pane-pdn-news-panel-pane-19, div.panel-pane.pane-views-panes.pane-pdn-news-panel-pane-18 {
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0,0,0,0.25);
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.25);
+    border-top: 6px solid #3b7b30;
+    margin: 1.15em 0px;
+    padding: 10px 10px;
+}
+
+body.page-explore-pausd-news-new-categories-collective-bargaining2 div.pausd-content-pane article.pdn-news-item .article-info {    
+    margin-bottom: 1.5333333333em;
+}
+
+body.page-explore-pausd-news-new-categories-collective-bargaining2 div.block-menu-block.in-this-section h2.pane-title {    
+    font-size: 1.3333333333em;
+    line-height: -0.5366666667em;
+    color: #fefefe;
+    background-color: #54585c;
+    font-weight: 300;
+    text-align: center;
+    padding: 0.5366666667em;
+}
+
+body.page-explore-pausd-news-new-categories-collective-bargaining2 div.pausd-content-pane {    
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0,0,0,0.25);
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.25);
+    border-top: 6px solid #018CCF;
+    margin: 1.15em 0px;
+    padding: 10px;
+}
+
+body.page-news a div.carousel-caption {
+    margin-left: auto;
+    margin-right: auto;
+    /* max-width: 1040px; */
+    padding:1.3em;
+    /* padding-bottom: 4.6em; */
+    background-color: #efefef;
+    opacity: .9;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+
+body.page-news div.pdn-news-carousel {
+    height:320px;
+}
+
+body.page-news div.view-carousel {
+    height:320px;
+}
+
+article.pdn-news-item .article-info div.summary {
+    margin: -20px 0 -15px;
+}
+
+article.pdn-news-item .article-info div.byline {
+     margin-bottom: -20px;
+}
+article.pdn-news-item .article-info h3 a {
+   border:none;
+}
+
+
+article.pdn-news-item .article-info {
+    margin: 10px;
+}
+
+article.pdn-news-item {
+    border-bottom:1px solid #eee;
+}
+
+article.pdn-news-item:hover {
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2), 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12);
+    cursor: pointer;
+}
+
+div.pdn-news-list div.item-list li {
+    display: inline-block;
+    margin: 0 0.5em 0.5em 1em;
+}
+
+div.pdn-news-list div.taxonomy-term a, div.pdn-news-list div.item-list li {
+    display: inline-block;
+    color: #666;
+    font-size: 0.875em;
+    background: #e5e5e5;
+    line-height: 2em;
+    padding: 0 0.5em;
+    position: relative;
+    font-weight: 700;
+    border-radius: 0 3px 3px 0;
+}
+
+div.pdn-news-list div.taxonomy-term a:before, div.pdn-news-list div.item-list li:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: -1em;
+    top: 50%;
+    margin-top: -1em;
+    height: 0;
+    border-top: 1em solid transparent;
+    border-bottom: 1em solid transparent;
+    border-right: 1em solid #e5e5e5;
+    z-index: 200;
+}
+
+div.pdn-news-list div.taxonomy-term a:after, div.pdn-news-list div.item-list li:after {
+    content: '';
+    display: block;
+    position: absolute;
+    left: -0.4em;
+    top: 50%;
+    margin-top: -0.2em;
+    width: 0.4em;
+    height: 0.4em;
+    background: #fff;
+    border-radius: 0.2em;
+    z-index: 200;
+}
+
+div.pane-node-terms ul.links li {
+    list-style: none;
+    display: inline-block;
+}
+
+div.pane-node-terms ul.links li a {
+    list-style: none;
+    display: inline-block;
+    padding: 0.0009em .2em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration: none;
+    border: 1px solid #3b7b30;
+}
+
+div.pane-node-terms ul.links li a:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+
+
+.field.field-name-field-pdn-categories.field-type-taxonomy-term-reference {
+    margin-top: -15px;
+    margin-bottom: 10px;
+}
+
+.field.field-name-field-pdn-categories div.field-items div.field-item a {
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.field.field-name-field-pdn-categories div.field-items div.field-item div.content {
+    display: none;
+}
+
+field.field-name-field-pdn-categories div.field-items div.field-item a:hover {
+    background:#018CCF;
+}
+
+.field.field-name-field-pdn-categories div.field-items div.field-item {
+    align-items: center;
+    border: none;
+    display: inline-flex;
+    justify-content: center;
+    outline: none;
+    position: relative;
+    z-index: 0;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-size: .875rem;
+    letter-spacing: .25px;
+    background: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #5f6368;
+    cursor: pointer;
+    font-weight: 500;
+    height: 36px;
+    outline: none;
+    padding: 0 16px;
+    box-shadow: inset 0 0 0 1px #dadce0;
+    min-width: 104px;
+    padding-left: 12px;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    user-select: none;
+    margin-right: 12px;
+    text-decoration: none;
+}

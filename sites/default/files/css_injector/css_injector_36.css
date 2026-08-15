@@ -1,0 +1,16 @@
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-range, 
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-reports-to,
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-revision-date, 
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-initial-date
+{ 
+    display:inline-block;
+    margin-right:20px;
+}
+
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-range h2.pane-title, 
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-reports-to h2.pane-title,
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-revision-date h2.pane-title, 
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-initial-date h2.pane-title,
+body.node-type-pdj-job-lising div.pane-node-field-pausd-job-work-year h2.pane-title { 
+    display:none;    
+}

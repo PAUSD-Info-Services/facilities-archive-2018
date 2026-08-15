@@ -1,0 +1,19 @@
+.paragraph-list {
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 1.5333333333em;
+    padding-bottom: 1.5333333333em;
+}
+
+body.node-type-pd-faqs div.field-name-body div.field-items div.field-item div {
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 1.5333333333em;
+    padding-bottom: 1.5333333333em;
+    width: 66%;
+}
+
+body.page-node-edit div.field-name-body div.field-items div.field-item div {
+    border-bottom: 1px solid #eeeeee;
+    margin-bottom: 1.5333333333em;
+    padding-bottom: 1.5333333333em;
+    width: 66%;
+}

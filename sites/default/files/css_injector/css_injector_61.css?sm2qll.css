@@ -1,0 +1,245 @@
+body.page-home-2019 .pane-quicktabs-homepage2019-news-events #quicktabs-tabpage-homepage2019_news_events-2 span.ext {
+    display: inherit;
+}
+
+body.page-home-2019 .pane-quicktabs-homepage2019-news-events {
+padding: 0.7666666667em;
+box-sizing: border-box;
+background-color: #fefefe;
+margin-right: 0.7666666667em;
+position: relative;
+}
+
+body.page-home-2019 .pane-quicktabs-homepage2019-news-events {
+    background-color: #fefefe;
+    height: 360px;
+}
+
+body.page-home-2019 .pane-quicktabs-homepage2019-news-events ul.quicktabs-tabs {
+    margin-top: 0;
+    padding: 0;
+}
+
+#quicktabs-homepage2019_news_events div.item-list ul.quicktabs-tabs ul {
+    padding:0;
+
+}
+
+
+#quicktabs-homepage2019_news_events div.item-list ul.quicktabs-tabs li {
+    margin-top: 0.25em;
+    font-size: 1em;
+    color: #444;
+    font-family: "Fira Sans",Tahoma,Verdana,"DejaVu Sans",sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+#quicktabs-homepage2019_news_events div.item-list ul.quicktabs-tabs li.active a {
+    border-bottom: 2px solid #3b7b30;
+    color: #444 !important;
+}
+
+#quicktabs-homepage2019_news_events div.item-list ul.quicktabs-tabs li a {
+    color: #666 !important;
+}
+
+body.page-home-2019 div.panels-flexible-row-59-2.row-grid {
+    height: 345px;
+    background-position: top left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://facilities.pausd.org/profiles/pausd/themes/starter-theme/images/front-bg-bkp.jpg);
+
+}
+
+.highlight-item p, .highlight-item-details p {
+    margin: 0px;
+}
+
+.highlight-item {
+    text-align: center;
+    background-color: rgba(89, 164, 77,.9);
+    padding: 20px 5px;
+    margin: 0px 10px;
+    min-height:250px;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.25);
+}
+
+.highlight-item-title h3 {
+    color:#fff;
+}
+
+.highlight-item-number {
+    font-size: 4em;
+    line-height: 1;
+    font-weight: 600;
+    margin-bottom: 23px !important;
+    color:#2f2f2f;
+}
+
+.highlight-item-details {
+    font-size: 1em;
+    line-height: normal;
+    color: #fff;
+    font-family: "Open Sans",Tahoma,Verdana,"DejaVu Sans",sans-serif;
+
+}
+
+body.page-home-2019 div.pane-boxes-pausd-twitter h1.timeline-Header-title {
+    font-family: "Fira Sans",Tahoma,Verdana,"DejaVu Sans",sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+body.page-home-2019 div.pane-boxes-pausd-twitter {
+    padding:0px 0px;
+    max-height:360px;
+    border-radius:0px;
+    border-style:none;
+    border-top:6px solid #3b7b30;
+}
+
+body.page-home-2019 div.view-display-id-panel_pane_13 ul li {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 0.7666666667em;
+    padding-bottom: 0.7666666667em;
+    border-bottom: 1px solid #b5b5b5;
+    font-weight:700;
+}
+
+body.page-home-2019 div.view-display-id-panel_pane_20 ul {
+    padding:0;
+}
+
+
+
+body.page-home-2019 div.view-display-id-panel_pane_20 ul li {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 0.7666666667em;
+    padding-bottom: 0.7666666667em;
+    border-bottom: 1px solid #b5b5b5;
+    font-weight:700;
+}
+
+body.page-home-2019 div.view-display-id-panel_pane_13 ul {
+    padding:0;
+}
+
+
+
+
+
+
+body.page-home-2019 div.panel-pane.pane-views.pane-pdf-partners div.view-header {
+    display: none;
+}
+
+#quicktabs-homepage2019_news_events .date-wrapper {
+    height: 60px;
+    position: relative;
+    border: 1px solid #ccc;
+
+
+    width: 60px;
+    display: inline-block;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,.15), 0 3px 3px rgba(0,0,0,.15);
+    text-align: center;
+}
+
+#quicktabs-homepage2019_news_events .month {
+    color: #fff;
+    background-color: #3b7b30;
+
+}
+
+#quicktabs-homepage2019_news_events .day {
+    color: #2f2f2f;
+    font-weight: 600;
+    font-size: 1.25em;
+}
+
+#quicktabs-homepage2019_news_events .views-field.views-field-nothing {
+    display: inline-block;
+}
+
+#quicktabs-homepage2019_news_events .views-field.views-field-nothing-1 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left:7px;
+}
+
+#quicktabs-homepage2019_news_events span.date-display-single {
+    display: inline-block;
+}
+
+#quicktabs-homepage2019_news_events span.date-display-single span.date-display-end:after {
+    content: " |";
+    color: #666;
+    font-weight: 300;
+    margin: 0em 0.3833333333em;
+}
+
+#quicktabs-homepage2019_news_events .views-field.views-field-title {
+    display: inline-block;
+    font-weight: 700;
+    vertical-align: top;
+}
+
+#quicktabs-homepage2019_news_events div.locality-block, #quicktabs-homepage2019_news_events div.premise {
+    display: none;
+}
+
+#quicktabs-homepage2019_news_events .street-block {
+    display: inline-block;
+}
+
+#quicktabs-homepage2019_news_events span.country {
+    display: none;
+}
+
+
+#quicktabs-homepage2019_news_events .views-row {
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+
+}
+
+#quicktabs-homepage2019_news_events div.item-list ul.quicktabs-tabs li:after {
+    content: " |";
+    color: #666;
+    font-weight: 300;
+    margin: 0em 0.3833333333em;
+}
+
+#quicktabs-homepage2019_news_events div.item-list ul.quicktabs-tabs li.last:after {
+    content: "";
+    color: #666;
+    font-weight: 300;
+    margin: 0em 0.3833333333em;
+}
+
+body.page-home-2019 div#boxes-box-pausd_twitter iframe#twitter-widget-0 h1.timeline-Header-title {
+    font-family: "Fira Sans",Tahoma,Verdana,"DejaVu Sans",sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+body.page-home-2019 .timeline-Header-title {
+    font-family: "Fira Sans",Tahoma,Verdana,"DejaVu Sans",sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+
+.region-above-header #block-views-exp-pdsr-search-page .views-widget .form-text {
+    margin-bottom: 10px;
+}

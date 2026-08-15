@@ -1,0 +1,84 @@
+.not-logged-in article.node-unpublished {
+    display:none;
+}
+
+body.page-pdsearch p {
+   margin:0;
+}
+
+body.page-pdsearch a:link {
+    text-decoration:none;
+}
+
+body.page-pdsearch a:hover {
+    text-decoration:underline;
+}
+
+body.page-pdsearch li.node-readmore {
+    display:none;
+}
+
+body.page-pdsearch article.node-pausd-board-policy header h2.node-title a:link::before {
+    content: "\f0e3  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-pdsearch article.node-pausd-board-policy div.field-name-field-pausd-policy-type, body.page-pdsearch article.node-pausd-board-policy div.field-name-field-pausd-policy-number {
+    display:inline-block;
+    padding: 0.0009em .2em;
+}
+
+
+
+
+
+body.page-pdsearch article.node-pde-event header h2.node-title a:link::before, body.page-pdsearch article.node-pdm-meeting header h2.node-title a:link::before {
+    content: "\f073  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-pdsearch article.node-pdn-news header h2.node-title a:link::before {
+    content: "\f1ea  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-pdsearch article.node-pd-faqs header h2.node-title a:link::before {
+    content: "\f02d  ";
+    font-family: FontAwesome;
+    font-weight: normal;
+}
+
+body.page-pdsearch article {
+    width:66.66%;
+    margin-left:0em;
+    margin-right:auto;
+}
+
+body.page-pdsearch div.view-header {
+    margin-bottom:1em;
+}
+
+body.page-pdsearch article.node-pdm-meeting div.meeting-time-and-date, body.page-pdsearch article.node-pdm-meeting div.field-name-field-pdm-date {
+    display:inline-block;
+    padding: 0.0009em .2em;
+}
+
+body.page-pdsearch article.node-pdm-meeting div.meeting-info.meeting-date span::after {
+    content:":";
+}
+
+body.page-pdsearch article.node-pdm-meeting div.meeting-location span::after {
+    content:":";
+}
+
+body.page-pdsearch article.node-pdm-meeting div.meeting-location, body.page-pdsearch article.node-pdm-meeting div.field-name-field-location{
+    display:inline-block;
+    padding: 0.0009em .2em;
+}
+
+body.page-pdsearch article.node-pdm-meeting div.meeting-materials, body.page-pdsearch article.node-pdm-meeting div.meeting-description {
+    display: none; 
+}

@@ -1,0 +1,193 @@
+@media (max-width: 959px) and (min-width: 460px)
+BODY.page-board .pane-pd-board-members-panel-pane-1 .views-row {
+    min-width:195px;
+}
+
+.view-pd-board-members .views-row {
+    min-width: 195px;
+    margin-bottom:10px;
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+
+BODY.page-board .pane-pd-board-members-panel-pane-1 img {
+    width: 200px;
+}
+
+/*Old layout fix*/
+@media (max-width: 764px) and (min-width: 480px)
+.view-pd-board-members .views-row {
+    width: 200px;
+    margin-bottom:10px;
+    
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+@media (max-width: 2560px) and (min-width: 920px) .view-pd-board-members .views-row {
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+.view-pd-board-members .views-field.views-field-field-pd-board-photo {
+    margin: 0px;
+    padding: 0px;
+}
+
+.view-pd-board-members .views-field {
+    padding: 0px 0px 0px 10px;
+}
+
+BODY.page-board .pane-pd-board-members-panel-pane-1 .views-field-field-pd-board-email A {
+    margin:0px;
+    padding: 0.0009em 0em;
+    font-size: 93.75%;
+    border-radius:0px;
+    border:0px;
+}
+
+BODY.page-board .pane-pd-board-members-panel-pane-1 .views-field-field-pd-board-email A:hover {
+    margin:0px;
+    padding: 0.0009em .2em;
+    
+    
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+    color: #fefefe;
+    background-color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+BODY.page-board .pane-pd-board-members-panel-pane-1 .views-field-field-pd-board-email {
+    text-align: left;
+    padding:0px 0px 0px 10px;
+}
+
+
+.view-pd-board-members .views-field-field-pd-board-term-expiration {
+    padding:0px 0px 10px 10px;
+}
+
+
+
+/*New card-person */
+div.card-person-outer {
+    display: inline-block;
+    box-shadow: rgba(12, 12, 13, 0.2) 0px 1px 8px 0px;
+}
+
+/*
+div.card-person-outer a:hover div.card-person {
+    display:none; 
+}
+
+div.card-person-outer a div.card-person-back {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    display:none;
+}
+
+div.card-person-outer a:hover div.card-person-back {
+    display:inline-block;
+    background:#3b7b30;
+    color:#fff;
+}
+*/
+.card-person-detail {
+    padding-left: 10px;
+    margin-bottom: 2px;
+    color: rgb(68, 68, 68);
+    font-size: 15px;
+    line-height: 23px;
+}
+
+/*
+a:hover .card-person-detail {
+   
+    padding-left: 10px;
+    margin-bottom: 2px;
+    color:#fff;
+    font-size: 15px;
+    line-height: 23px;
+    background:#3b7b30;
+}
+*/
+
+div.card-person-outer:hover .card-person-detail {
+	z-index: 900;
+	transform: rotateY(180deg);
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	
+}
+
+div.card-person-outer:hover .card-person-detail-back {
+	transform: none;
+	z-index: 1000;
+	opacity: 1;
+	background:#3b7b30;
+	color:#fff;
+}
+
+div.card-person-outer a .card-person-detail-back {
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	float: none;
+	left: 0;
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	transform: rotateY(-179deg);
+	transform-style: preserve-3d;
+	transition: all 0.4s ease-in-out;
+	z-index: 800;
+    
+    /*display:none;*/
+    padding-left: 10px;
+    margin-bottom: 2px;
+    background: rgb(68, 68, 68);
+    font-size: 15px;
+    line-height: 23px;
+}
+
+div.card-person-outer a:hover .card-person-detail-back {
+    opacity: 1.0;
+    display:block;
+    padding-left: 10px;
+    margin-bottom: 2px;
+    background: #3b7b30;
+    font-size: 15px;
+    line-height: 23px;
+    color:#fff;
+    z-index:999;
+    
+    
+    
+}
+
+div.name-title h3 {
+    font-size: 15px;
+    font-weight: 700;
+    margin:0px;
+}
+
+div.name-title h4 {
+    font-size: 15px;
+    margin:0px;
+    font-weight:400;
+}
+
+
+/*end card-person */

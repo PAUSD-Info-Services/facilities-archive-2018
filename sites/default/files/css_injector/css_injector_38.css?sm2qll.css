@@ -1,0 +1,167 @@
+body.logged-in.page-bprc .block.in-this-section {
+    z-index: +1;
+}
+
+body.section-board-policy-review-committee-bprc div#block-views-pde-events-block-1, div.pane-pde-events-panel-pane-14, div.pane-pdm-meetings-panel-pane-8 {
+    box-sizing: border-box;
+    -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+    border-top: 6px solid #3b7b30;
+    margin: 1.15em 0px;
+    padding: 0px 10px;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.menu-block-wrapper {
+    padding: 0em 0.7666666667em 0.7666666667em 1.9166666667em;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.right-align {
+    float: right;
+    width: 265px;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.in-this-section {
+    background-color: #eeeeee;
+    margin: 0em 0em 1.5333333333em;
+    padding: 0em;
+    z-index:+1;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.in-this-section h2.pane-title, body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-menu-block-8.in-this-section h2.pane-title {
+    background-color: #3b7b30;
+    font-size:1.33333em;
+    color:#fefefe;
+    font-weight: 300;
+    text-align:center;
+    padding: 0.5366666667em;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+    margin-top:0em;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.in-this-section ul.menu, body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-menu-block-8.in-this-section ul.menu {
+    margin: 0.3833333333em 0em;
+    padding: 0em;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.in-this-section ul.menu {
+    list-style-type: none !important;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.in-this-section ul.menu li {
+    display: block;
+    position: relative;
+}
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.in-this-section ul li {
+    list-style-type: none !important;
+}
+
+
+body.page-explore-pausd-committees-task-forces-bprc.page-board.page-bprc.node-type-pd-faqs div.pane-block-3.right-align ul.menu li a {
+    font-size: 1.0666666667em;
+    line-height: -0.6708333333em;
+    color: #444;
+    font-family: "Fira Sans", Tahoma, Verdana, "DejaVu Sans", sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+    dispaly:block;
+    
+    padding: 0em 0.7666666667em 0.7666666667em 1.9166666667em;
+}
+
+div.pane-pdm-meetings-panel-pane-8 h3.meeting-title {
+    margin-top:0em;
+    margin-bottom:0em;
+}
+
+div.pane-pde-events-panel-pane-14 div.view-footer a.btn-secondary {
+    padding: 0.0009em .2em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration: none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+div.pane-pde-events-panel-pane-14 div.view-footer a.btn-secondary:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+div.pane-pde-events-panel-pane-14 div.view-footer {
+    padding-bottom: .567em;
+    text-align: right;
+}
+
+div.pane-pdm-meetings-panel-pane-8 div.item-list {
+    padding-bottom: .1257em;
+}
+
+div.pane-pdm-meetings-panel-pane-8 ul.pager {
+    padding:.12567em .567em;
+    border-radius: 3px;
+    border: 1px solid #ddd;
+}
+
+div.pane-pdm-meetings-panel-pane-8 ul.pager li.pager-item a {
+    position:relative;
+    padding:4px 9px;
+}
+
+div.pane-pdm-meetings-panel-pane-8 ul.pager li.pager-next a {
+    padding: 4px 10px;
+}
+
+div.pane-pdm-meetings-panel-pane-8 ul.pager li.pager-item a:hover {
+    color:#fff;
+    background:#3b7b30;
+    text-decoration:none;
+}
+
+div.pane-pdm-meetings-panel-pane-8 ul.pager li.pager-next a:hover {
+    color:#fff;
+    background:#3b7b30;
+    text-decoration:none;
+}
+
+div.pane-pdm-meetings-panel-pane-8 ul.pager li.pager-current {
+   background-color:#ddd;
+}
+
+body.section-board-policy-review-committee-bprc div#block-views-pde-events-block-1 a:link, div.pane-pde-events-panel-pane-14 a:link, div.pane-pdm-meetings-panel-pane-8 a:link {
+    text-decoration:none;
+}
+
+body.section-board-policy-review-committee-bprc div#block-views-pde-events-block-1 a:hover, div.pane-pde-events-panel-pane-14 a:hover, div.pane-pdm-meetings-panel-pane-8 a:hover {
+    text-decoration:underline;
+}
+
+div.pane-pdm-meetings-panel-pane-8 .views-row {
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    margin-bottom: .567em;
+    padding-bottom: .567em;
+}
+
+body.page-board.page-bprc.node-type-pd-faqs .views-row {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 1.5333333333em;
+    padding-bottom: .567em;
+}
+
+body.page-board.page-bprc.node-type-pd-faqs span.date-display-single {
+    font-weight:normal;
+}
+
+body.section-board-policy-review-committee-bprc div#block-views-pde-events-block-1 h2.block-title, div.pane-pde-events-panel-pane-14 h2.pane-title, div.pane-pdm-meetings-panel-pane-8 h2.pane-title {
+    font-size: 0.9333333333em;
+    line-height: -0.7666666667em;
+    color: #444;
+    margin-top: 1.0222222222em;
+    margin-bottom: 1.0222222222em;
+    text-transform: uppercase;
+    font-weight: 700;
+    }

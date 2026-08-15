@@ -1,0 +1,83 @@
+.page-home #quicktabs-pd_front_homepage_events_tabs .item-list ul li a {
+    color:#666666;
+}
+
+footer#footer #boxes-box-pausd_social .social-links .youtube span {
+    font-size: 93.75%;
+    line-height: 0em;
+    color: #FFF;
+    position: absolute;
+    left: -10000px;
+}
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .accordion-toggle {
+    background-color: #3b7b30;
+}
+
+
+a#logo.header__logo h1.hide-text, a#logo.header__logo span.hide-text {
+    color: #FFF;
+}
+
+.hide-text {
+    position: absolute;
+    left: -10000px;
+}
+
+section#main-navigation .printer-friendly a {
+    color: transparent;
+    overflow:hidden;
+
+}
+
+section#main-navigation .printer-friendly a:focus {
+    overflow:hidden;
+    transition: color 0.2s ease-in, text-shadow 0.2s ease-in;
+    text-shadow: #bbb 1px 1px 1px;
+    border: 1px solid black;
+    outline: #4CAF50 solid 10px;
+}
+
+div.grid-overlay a {
+    color: transparent;
+}
+
+.page-home .row-grid .field-name-field-pdg-grid-items > .field-items > .field-item .field-name-field-pdg-link, BODY.node-type-pdg-grid-page:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdg-grid-items > .field-items > .field-item .field-name-field-pdg-link {
+    font-size: 1.3333333333em;
+    line-height: 1.725em;
+    color: #fefefe;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item .field-name-field-pdf-answer {
+	 font-size: 93.75%;
+
+	}
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item .field-name-field-pdf-answer p, BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item .field-name-field-pdf-answer h3 {
+    display: none;
+    font-size: 93.75%;
+}
+
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item .field-name-field-pdf-answer p, BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item .field-name-field-pdf-answer h4 {
+    display: none;
+    font-size: 93.75%;
+}
+
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item.accordion-active .field-name-field-pdf-answer p {
+    font-size: 93.75%;
+    display:block;
+}
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item.accordion-active .field-name-field-pdf-answer h4 {
+    font-size: 1.17em;
+    display:block;
+}
+
+BODY.node-type-pd-faqs:not(.page-node-edit) section#main .section-wrapper .field-name-field-pdf-faq-items > .field-items > .field-item.accordion-active .field-name-field-pdf-answer h3 {
+    font-size: 1.17em;
+    display:block;
+}

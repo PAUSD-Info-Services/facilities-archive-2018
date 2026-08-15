@@ -1,0 +1,16 @@
+body.logged-in.page-home.more-link {
+    position:static;
+}
+
+.logged-in div.contextual-links-region.panel-pane.pane-views-panes.pane-pdn-news-panel-pane-13 .more-link {
+    position:static;
+}
+
+.logged-in div.quicktabs-wrapper.quicktabs-style-nostyle .more-link {
+    position:static;
+
+} 
+
+#site-logo {
+    z-index: 990;
+}

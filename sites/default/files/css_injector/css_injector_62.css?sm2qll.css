@@ -1,0 +1,11 @@
+div#google_translate_element img.goog-te-gadget-icon {      
+    display:none;
+}
+
+div#google_translate_element .goog-te-gadget-simple {      
+    background-color: transparent;
+    border-left: 1px solid transparent;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    border-right: 1px solid transparent;
+}

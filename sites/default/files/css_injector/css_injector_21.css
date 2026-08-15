@@ -1,0 +1,107 @@
+a.btn-secondary {
+    font-size: 16px;
+    padding: 0.15em .5em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+a:hover.btn-secondary {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+body.node-type-pde-event div.pane-entity-field.pane-node-field-pde-event-type-term a, body.node-type-pde-event div.pane-entity-field.pane-node-field-tags div.field-items div.field-item.odd, body.node-type-pde-event div.pane-entity-field.pane-node-field-pde-event-type-term a, body.node-type-pde-event div.pane-entity-field.pane-node-field-tags div.field-items div.field-item.even {
+    display: inline-block;
+    margin-right:10px;
+
+}
+
+
+body.node-type-pde-event div.pane-entity-field.pane-node-field-pde-event-type-term a, body.node-type-pde-event div.pane-entity-field.pane-node-field-tags div.field-items a {
+
+    padding: 0.0009em .2em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+
+ body.node-type-pde-event div.pane-entity-field.pane-node-field-pde-event-type-term a, body.node-type-pde-event div.pane-entity-field.pane-node-field-tags div.field-items a {
+
+    padding: 0.0009em .2em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+ body.node-type-pde-event div.pane-entity-field.pane-node-field-pde-event-type-term a:hover, body.node-type-pde-event div.pane-entity-field.pane-node-field-tags div.field-items a:hover {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+a.btn-secondary-pdf {
+    font-size: 16px;
+    padding: 0.15em .5em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+a.btn-secondary-pdf::before {
+    content: "\f1c1 ";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    padding-right:5px;
+}
+
+a:hover.btn-secondary-pdf {
+    color: #fefefe;
+    background-color: #3b7b30;
+}
+
+a.btn-secondary-cal {
+    font-size: 16px;
+    padding: 0.15em .5em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration:none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+a.btn-secondary-cal::before {
+    content: "\f073";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    padding-right:5px;
+}
+
+a:hover.btn-secondary-cal {
+    color: #fefefe;
+    background-color: #3b7b30;
+}

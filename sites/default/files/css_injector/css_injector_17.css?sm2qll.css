@@ -1,0 +1,32 @@
+body.the-board-report .board-report-item {
+   
+}
+
+body.the-board-report .board-report-item p {
+   padding: 0.38333333335em 0em 0.38333333335em 1.91666665em;
+}
+
+body.the-board-report h3 {
+    background-color: #eeeeee;
+    padding: 0.7666666667em 0em 0.7666666667em 0.7666666667em;
+    width: 100%;
+    z-index: -200;
+}
+
+body.the-board-report .outcome {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0.38333333335em 0em 0.38333333335em 1.91666665em;
+    position: relative;
+}
+
+body.the-board-report .desc {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0.38333333335em 0em 0.38333333335em 1.91666665em;
+    position: relative;
+}

@@ -1,0 +1,64 @@
+body.page-policies div#ember-app.ember-application div.document-lib-content ol {
+
+    list-style-type:decimal;
+}
+body.page-policies div#ember-app.ember-application div.document-lib-content ol li ol li {
+    display: list-item;
+    list-style-type:lower-alpha;
+}
+body.page-policies div#ember-app.ember-application div.document-lib-content ol li ol li ol li {
+    display: list-item;
+    list-style-type:lower-roman;
+}
+
+
+div#page section#main div.section-wrapper div#content.column ol {
+    list-style-type:decimal;
+}
+div#page section#main div.section-wrapper div#content.column ol li ol li {
+    display: list-item;
+    list-style-type:lower-alpha;
+}
+div#page section#main div.section-wrapper div#content.column ol li ol li ol li {
+    display: list-item;
+    list-style-type:lower-roman;
+}
+
+
+
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul {
+    list-style-type:disc;
+}
+
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul li {
+    display: list-item;
+    margin-left: 40px;
+    
+}
+
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul li ul li {
+    display: list-item;
+    list-style-type: circle;
+
+}
+div#page section#main div.section-wrapper div#content.column article.node-pd-faqs div.accordion-active ul li ul li ul li {
+    display: list-item;
+    list-style-type:square;
+
+}
+
+
+
+
+
+body.section-node-edit div#page section#main div.section-wrapper div#content.column ol {
+    list-style-type:decimal;
+}
+body.section-node-edit div#page section#main div.section-wrapper div#content.column ol li ol li {
+    display: list-item;
+    list-style-type:lower-alpha;
+}
+body.section-node-edit div#page section#main div.section-wrapper div#content.column ol li ol li ol li {
+    display: list-item;
+    list-style-type:lower-roman;
+}

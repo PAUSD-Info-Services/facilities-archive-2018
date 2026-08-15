@@ -1,0 +1,53 @@
+.node-type-pausd-board-policy div.panels-flexible-region.panels-flexible-region-news-top_right {
+    text-align: right;
+    }
+
+div#ember-app div.field.field-name-field-pausd-policy-attachment {
+    float:right;
+} 
+
+
+
+
+div#ember-app div.field-name-field-pausd-policy-attachment div.field-items div.field-item {
+    display: inline-block;
+    margin-right: 20px;
+    
+    padding: 0.15em .5em;
+
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration: none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+    }    
+
+div#ember-app div.field-name-field-pausd-policy-attachment div.field-items div.field-item:hover {
+    background-color: #3b7b30;
+    color: #fff;
+    }    
+
+div#ember-app div.field-name-field-pausd-policy-attachment div.field-items div.field-item a:hover {
+    background-color: #3b7b30;
+    color: #fff;
+    }    
+
+div#ember-app div.field-name-field-pausd-policy-attachment div.field-items div.field-item img.file-icon:hover {
+
+    color: #fff;
+    }
+
+
+div#ember-app div.field-name-field-pausd-policy-attachment div.field-items div.field-item a {
+    text-decoration:none;
+    }    
+
+
+/*
+div#ember-app div.field-name-field-pausd-policy-attachment div.field-items div.field-item.even::after {
+    color: #eee;
+    content: " | ";
+    
+    }
+*/    

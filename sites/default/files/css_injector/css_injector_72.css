@@ -1,0 +1,16 @@
+.node-readmore a, .btn {
+    padding: 0.15em .5em;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color: #fefefe;
+    text-decoration: none;
+    color: #3b7b30;
+    border: 1px solid #3b7b30;
+}
+
+.node-readmore a:hover, .btn a:hover, a:hover.btn {
+    color: #fefefe;
+    background-color: #3b7b30;
+    text-decoration: none;
+}

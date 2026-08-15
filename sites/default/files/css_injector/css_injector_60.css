@@ -1,0 +1,7 @@
+body.page-registration-olr-help section#main article.node-19543 .field-name-body .field-items .field-item p {
+    width:100%;
+}
+
+body.page-registration-olr-help section#main article.node-19543 .field-name-body .field-items .field-item .in-page-nav:before {
+    content: "OLR Sections:";
+}

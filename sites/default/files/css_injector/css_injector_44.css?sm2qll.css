@@ -1,0 +1,21 @@
+.qtip-pausd {
+	height: 260px;
+}
+
+div.menu-minipanels div.panel-col-last ul {
+    width: 100%;
+    float: left;
+    display: block;
+    margin: 0em;
+    padding: 0em;
+}
+
+
+#explore-mini-panel ul.menu.links {
+    float: left;
+    column-count: 2;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    -o-column-count: 2;
+
+}
