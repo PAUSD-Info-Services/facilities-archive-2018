@@ -1,14 +1,13 @@
 # PAUSD Facilities (2018 Facilities Master Plans) — Static Archive
 
 This is a static, offline-browsable archive of `facilities.pausd.org`, the Palo Alto
-Unified School District site covering the 2018 Facilities Master Plans, bond oversight
-committees, and per-school master plan documents. It was captured on 2026-08-14 ahead
-of the original Drupal 7 site being retired, so the content remains available for
-reference.
+Unified School District site covering the 2018 Facilities Master Plans and related documents.
+It was captured on 2026-08-14 from an archived copy of the original Drupal 7 site retired in 
+December 2025, so the content remains available for reference.
 
 ## Browsing
 
-Live site: **https://<github-username>.github.io/<repo-name>/** (hosted via GitHub Pages).
+Live site: **https://pausd-info-services.github.io/facilities-archive-2018/** (hosted via GitHub Pages).
 
 Everything is also plain HTML with no server or build step required, so you can equally
 well clone or download this repo and open `index.html` directly in a browser.
