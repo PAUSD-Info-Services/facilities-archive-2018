@@ -7,7 +7,7 @@ December 2025, so the content remains available for reference.
 
 ## Browsing
 
-Live site: **https://pausd-info-services.github.io/facilities-archive-2018/** (hosted via GitHub Pages).
+Live site: **https://facilities-archive-2018.pausd.org/** (hosted via web01).
 
 Everything is also plain HTML with no server or build step required, so you can equally
 well clone or download this repo and open `index.html` directly in a browser.
